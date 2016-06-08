@@ -9,7 +9,7 @@ AAA davė mums kiekvienų metų visų Vilniaus stotelių duomenis. Vienas failas
 Failai yra MS XLS. Kiekvienas failas susideda iš lapų (sheets), kurių pavadinimai tokie: 'Stotelė_XYn', kur 'Stotelė' - stotelės pavadinimas, 'XYn'- teršalo kodas, susidedantis iš įvairių simbolių (raidžių ir skaičių).
 Stotelių yra tokių pavadinimų: 
 * Lazdynai
-* Žirmūnai
+* Zirmunai
 * Savanoriu
 * Senamiestis
 
